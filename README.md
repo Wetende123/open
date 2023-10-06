@@ -1,1 +1,2 @@
 # open
+print("hello world")
